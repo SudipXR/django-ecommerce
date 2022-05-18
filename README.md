@@ -1,4 +1,4 @@
-# django-ecommerce_mino
+# django-ecommerce
 Minor
 
 Create a "env" folder for python dependencies.
